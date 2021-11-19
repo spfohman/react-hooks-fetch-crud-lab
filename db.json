@@ -67,16 +67,15 @@
       "correctIndex": 1
     },
     {
+      "prompt": "What is this",
+      "answers": [
+        "4",
+        "5",
+        "7",
+        "9"
+      ],
+      "correctIndex": 0,
       "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
-      "id": 9
-    },
-    {
-      "id": 10
     }
   ]
 }
