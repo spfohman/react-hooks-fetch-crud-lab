@@ -39,7 +39,7 @@ function QuestionList() {
   }
   
   const eachQuestion = questions.map((e)=>(
-       <QuestionItem key={e.id} question={e} onDelete={handleDeleteClick} onAnswerChange={handleAnswerChange} />
+       <QuestionItem key={e.id} question={e} onDeleteClick={handleDeleteClick} onAnswerChange={handleAnswerChange} />
   ));
   
   return (
